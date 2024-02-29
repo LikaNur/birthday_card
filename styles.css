@@ -31,7 +31,6 @@ h1, h2, h3, h4, p {
 
 .gift-section {
     margin-top: 50px;
-    cursor: pointer;
 }
 
 .gift-title {
@@ -54,6 +53,7 @@ h1, h2, h3, h4, p {
     border-radius: 10px;
     background-image: url("images/gift-cover.jpg");
     background-size: cover;
+    cursor: pointer;
 }
 
 #gift-img-happy:hover {
