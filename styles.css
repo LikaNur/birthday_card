@@ -31,6 +31,7 @@ h1, h2, h3, h4, p {
 
 .gift-section {
     margin-top: 50px;
+    cursor: pointer;
 }
 
 .gift-title {
